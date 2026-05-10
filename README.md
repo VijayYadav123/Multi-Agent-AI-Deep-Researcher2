@@ -346,6 +346,12 @@ Every pipeline run produces a timestamped report with the following structure:
 | Ajay | Architecture design · API integration planning · Query Planning agent |
 
 ---
+## **Screenshots**
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/841e828b-5a20-41ba-9aea-968db67a4431" />
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/4e1912f6-831e-481d-a7f2-55849dcaa6ea" />
+
+
 
 ## 📜 License
 
