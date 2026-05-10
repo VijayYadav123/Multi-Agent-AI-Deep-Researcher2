@@ -339,8 +339,8 @@ Every pipeline run produces a timestamped report with the following structure:
 
 | Member | Role / Contribution |
 |---|---|
-|Vijay Yadav | Architecture design · API integration planning · Query Planning agent |
-| Lain Clark | Architecture design · API integration planning · Query Planning agent |
+| Vijay Yadav | Architecture design · API integration planning · Query Planning agent |
+| Iain Clark | Architecture design · API integration planning · Query Planning agent |
 | Pushkar Raj | Architecture design · API integration planning · Query Planning agent |
 | Sudarshan | Architecture design · API integration planning · Query Planning agent |
 | Ajay | Architecture design · API integration planning · Query Planning agent |
